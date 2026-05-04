@@ -37,5 +37,6 @@ The dataset contained missing values and duplicate records. To ensure data accur
 • DAX (Data Analysis Expressions)  
 
 ![Pizza Sales Dashboard](Pizza_Sales1.png)
+![Pizza Sales Dashboard](Pizza_Sales2.png)
 
 This project demonstrates my skills to work with real-world datasets, perform end-to-end data analysis, and generate actionable insights for business decision-making.
